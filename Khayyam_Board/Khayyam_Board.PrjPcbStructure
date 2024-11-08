@@ -1,5 +1,5 @@
 Record=TopLevelDocument|FileName=Communication.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=MCU_stm32f407vet6.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=MCU_stm32f407vet6.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=Power.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=Sensor.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=UI.SchDoc|SheetNumber=3
